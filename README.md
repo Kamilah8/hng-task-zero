@@ -43,8 +43,8 @@ information about sale made by a company.
 
 ### Tool
 * Excel
-  * Data Cleaning - loading and inspection of data.
-  * Visualization - crwating of dashboard and report.
+  * Data Cleaning and Exploratory - loading and inspection of data.
+  * Visualization - creating of dashboard and report.
     
 
 
