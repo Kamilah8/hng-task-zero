@@ -43,47 +43,49 @@ information about sale made by a company.
 
 ### Tool
 * Excel
+  * Data Cleaning - loading and inspection of data.
+  * Visualization - crwating of dashboard and report.
+    
 
 
 ### OBSERVATION
 
-**The Year with the Highest Sales**
-
+#### The Year with the Highest Sales
 The year 2004 had the highest number of Sales with a significant amount of 4,724,162.60 followed by 2003 with a significant amount of 3,516,979.54 then 2005, which seems to have the lowest Sales.
 
 ![sale distribution by the year](https://github.com/Kamilah8/hng-task-zero/assets/66366192/8d5e05ff-68b1-4b19-8351-1fc858d5dd7e)
-Sales distribution by the Year
+*Sales distribution by the Year*
 
 
-**Country with the highest Sales**
 
+#### Country with the highest Sales
 The analysis of Sales within Countries shows that Customers from USA had the highest number of Sales, followed by Spain, then France. This shows the potential countries for marketing.
 
 ![sale distribution by the country](https://github.com/Kamilah8/hng-task-zero/assets/66366192/46308275-eb5a-47e2-aa41-8907796099d7)
-Sales distribution by Country
+*Sales distribution by Country*
 
 
-**Sales and Product_line sold Per Year**
 
+#### Sales and Product_line sold Per Year
 The year 2004 had an increase in Sales for Classic Cars with a significant amount of 1,762,257.09. With Cars Sales having a progressive increase among the years. This shows that most Customers go for Classic cars rather than others from the Product_line
 
 ![Product_line vs Sales](https://github.com/Kamilah8/hng-task-zero/assets/66366192/0d3c2e1b-6ad9-4143-b7cf-8b96fb823465)
-Product_line vs Sales
+*Product_line vs Sales*
 
-**Number of Product_line Ordered**
 
+
+#### Number of Product_line Ordered
 This analysis showed the Quantity_order of Product_line ordered each year along with it prices. And 2004 had the highest Quantity_order as compared to others.
 
 ![Product_line,Year vs Sum of Quantity_ordered, Sum Price](https://github.com/Kamilah8/hng-task-zero/assets/66366192/9f04ead1-db4b-45b6-a435-abddcdabffbd)
-Product_line,Year vs Sum of Quantity_Ordered, Sum Price
+*Product_line,Year vs Sum of Quantity_Ordered, Sum Price*
 
 
-### CONCLUSION
 
+#### CONCLUSION
 The analysis from the Sales dataset focused on Countries with the highest purchase of the Product_line(i.e highest number of Sales), Product_line with the highest Sales and the year with the most Sale. It also highlighted the potential countries to focus on ( USA, Spain, France). This analysis also indicated the Product_line(Classic Cars) as the most sold item. From 2003–2005, there was a steady increase in Sales, peaking at 2004, declining in 2005. The data revealed an over roll increase in Sales from Classic Cars.
 
-### SUGGESTION
-
+#### SUGGESTION
 The suggestions include; getting Customers feedback for canceled order and other feedbacks as well, Understanding customer demands/needs.
 
 
