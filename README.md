@@ -11,31 +11,34 @@ The purpose of this project is to explore the dataset and gain initial insights 
 This dataset contains a Sales sample from 2003–2005 of Customers located in 19 countries, which includes; “Australia”, “Austria”, “Belgium”, “Canada”, “Denmark”,
 “Finland”, “France”, ”Germany”, “Italy”, “Japan”, “Norway”, “Philippine”, ”Singapore”, “Spain”, Sweden”, “Switzerland”, “UK”, “USA”.
 The dataset also comprises of 25 columns, which includes attributes such as;
-ORDER_NUMBER
-QUANTITY_ORDERED
-PRICE_EACH
-ORDER_LINE_NUMBER
-SALES
-ORDER_DATE
-STATUS
-QTR_ID
-MONTH_ID
-YEAR_ID
-PRODUCT_LINE
-MSRP
-PRODUCT_CODE
-CUSTOMER_NAME
-PHONE
-ADDRESS_LINE1
-ADDRESS_LINE2
-CITY
-STATE
-POSTAL_CODE
-COUNTRY
-TERRITORY
-CONTACT_LAST_NAME
-DEAL_SIZE
+* ORDER_NUMBER
+* QUANTITY_ORDERED
+* PRICE_EACH
+* ORDER_LINE_NUMBER
+* SALES
+* ORDER_DATE
+* STATUS
+* QTR_ID
+* MONTH_ID
+* YEAR_ID
+* PRODUCT_LINE
+* PRODUCT_CODE
+* CUSTOMER_NAME
+* PHONE
+* ADDRESS_LINE1
+* ADDRESS_LINE2
+* CITY
+* STATE
+* POSTAL_CODE
+* COUNTRY
+* TERRITORY
+* CONTACT_LAST_NAME
+* DEAL_SIZE
+  
 There are also numeric columns which includes; QUANTITY_ORDERED, PRICE_EACH, SALES, ORDER_LINE_NUMBER, MSRP
+
+### Data Source
+sales_data_sample: The dataset used for this analysis is the [sales_data_sample.csv](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
 
 OBSERVATION
 
