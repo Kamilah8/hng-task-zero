@@ -38,23 +38,28 @@ The dataset also comprises of 25 columns, which includes attributes such as;
 There are also numeric columns which includes; QUANTITY_ORDERED, PRICE_EACH, SALES, ORDER_LINE_NUMBER, MSRP
 
 ### Data Source
-sales_data_sample: The dataset used for this analysis is the [sales_data_sample.csv](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
+sales_data_sample: The dataset used for this analysis is the ["sales_data_sample.csv"](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data),containing detailed 
+information about sale made by a company.
 
-OBSERVATION
+### Tool
+* Excel
 
-The Year with the Highest Sales
+
+### OBSERVATION
+
+**The Year with the Highest Sales**
 
 The year 2004 had the highest number of Sales with a significant amount of 4,724,162.60 followed by 2003 with a significant amount of 3,516,979.54 then 2005, which seems to have the lowest Sales.
 
 
 Sales distribution by the Year
-Country with the highest Sales
+**Country with the highest Sales**
 
 The analysis of Sales within Countries shows that Customers from USA had the highest number of Sales, followed by Spain, then France. This shows the potential countries for marketing.
 
 
 Sales distribution by Country
-Sales and Product_line sold Per Year
+**Sales and Product_line sold Per Year**
 
 The year 2004 had an increase in Sales for Classic Cars with a significant amount of 1,762,257.09. With Cars Sales having a progressive increase among the years. This shows that most Customers go for Classic cars rather than others from the Product_line
 
@@ -66,15 +71,15 @@ This analysis showed the Quantity_order of Product_line ordered each year along 
 
 
 Product_line,Year vs Sum of Quantity_Ordered, Sum Price
-CONCLUSION
+### CONCLUSION
 
 The analysis from the Sales dataset focused on Countries with the highest purchase of the Product_line(i.e highest number of Sales), Product_line with the highest Sales and the year with the most Sale. It also highlighted the potential countries to focus on ( USA, Spain, France). This analysis also indicated the Product_line(Classic Cars) as the most sold item. From 2003–2005, there was a steady increase in Sales, peaking at 2004, declining in 2005. The data revealed an over roll increase in Sales from Classic Cars.
 
-SUGGESTION
+### SUGGESTION
 
 The suggestions include; getting Customers feedback for canceled order and other feedbacks as well, Understanding customer demands/needs.
 
 
 
-https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
+
 
