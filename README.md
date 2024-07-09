@@ -1,20 +1,16 @@
 # First Glance Technical Report
 
-### Introduction
+## Introduction
 
 This report provides an initial analytical insights of a Sale dataset consisting of 2824 rows and 25 columns related to Customer order, Product and Sales details.
+
 **Project Purpose**
 The purpose of this project is to explore the dataset and gain initial insights from the data, identifying potential areas that needs further analysis.
 
 **Dataset Information**
-· Source: Kaggle
-
-· Name: Sales_data_sample
-
-This dataset contains a Sales sample from 2003–2005 of Customers located in 19 countries, which includes; “Australia”, “Austria”, “Belgium”, “Canada”, “Denmark”, “Finland”, “France”, ”Germany”, “Italy”, “Japan”, “Norway”, “Philippine”, ”Singapore”, “Spain”, Sweden”, “Switzerland”, “UK”, “USA”.
-
+This dataset contains a Sales sample from 2003–2005 of Customers located in 19 countries, which includes; “Australia”, “Austria”, “Belgium”, “Canada”, “Denmark”,
+“Finland”, “France”, ”Germany”, “Italy”, “Japan”, “Norway”, “Philippine”, ”Singapore”, “Spain”, Sweden”, “Switzerland”, “UK”, “USA”.
 The dataset also comprises of 25 columns, which includes attributes such as;
-
 ORDER_NUMBER
 QUANTITY_ORDERED
 PRICE_EACH
@@ -74,4 +70,8 @@ The analysis from the Sales dataset focused on Countries with the highest purcha
 SUGGESTION
 
 The suggestions include; getting Customers feedback for canceled order and other feedbacks as well, Understanding customer demands/needs.
+
+
+
+https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 
